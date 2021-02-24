@@ -1,12 +1,12 @@
 {
-  "title": "KC Example 1",
-  "description": "Just a test",
+  "title": "Linux Example 1",
+  "description": "Just a test!",
   "difficulty": "Beginner",
   "time": "2 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1: ps command",
         "text": "step1.md"
       }
     ],
